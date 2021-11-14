@@ -1,0 +1,6 @@
+USE [AdventureWorksDWH]
+GO
+CREATE SCHEMA stage
+GO
+CREATE SCHEMA edw
+GO
